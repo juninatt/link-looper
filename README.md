@@ -2,12 +2,7 @@
 
 ## Overview
 LinkLooper is a simple Python script designed to open a list of specified URLs in the default web browser once per day, for a given number of consecutive days. 
-This project is ideal for users who want to automate the routine checking of specific web pages.
-
-## Features
-- Opens multiple URLs in the default web browser.
-- Schedules URL opening once per day.
-- Runs for a user-defined number of days.
+For users who want to automate the routine checking of specific web pages.
 
 ## Prerequisites
 - Python 3.x
